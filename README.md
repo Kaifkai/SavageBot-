@@ -18,19 +18,19 @@
 ###  Fun & Games
 | Command | Description |
 |--------|-------------|
-| `!roll [NdN]` | Roll dice e.g. `!roll 2d20` |
+| `!roll [NdN]` | Roll dice |
 | `!coinflip` | Flip a coin |
 | `!8ball <question>` | Ask the magic 8-ball |
 | `!rps <rock/paper/scissors>` | Play rock paper scissors |
 | `!trivia` | Start a trivia question |
 | `!roast [@user]` | Roast someone |
 
-### 🤖 AI Chat (Powered by Gemini + Groq)
+###  AI Chat (Powered by Gemini + Groq)
 | Command | Description |
 |--------|-------------|
 | `!chat <message>` | Chat with the savage AI |
 
-### 👋 Welcome System
+###  Welcome System
 | Command | Description |
 |--------|-------------|
 | `!setwelcome #channel` | Set welcome channel (admin only) |
