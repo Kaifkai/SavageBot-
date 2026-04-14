@@ -1,12 +1,12 @@
-# 🤖 cafevibe SavageBot
+#  cafevibe SavageBot
 
 > A savage but respectful Discord bot with AI chat, moderation, and fun/games commands. Created by **kaifuddin**.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🛡️ Moderation
+###  Moderation
 | Command | Description |
 |--------|-------------|
 | `!kick @user [reason]` | Kick a member |
@@ -15,7 +15,7 @@
 | `!mute @user [reason]` | Mute a member |
 | `!unmute @user` | Unmute a member |
 | `!clear [amount]` | Delete messages (max 100) |  
-### 🎮 Fun & Games
+###  Fun & Games
 | Command | Description |
 |--------|-------------|
 | `!roll [NdN]` | Roll dice e.g. `!roll 2d20` |
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 ### 1. Clone the repository
 ```bash
@@ -65,7 +65,7 @@ python3 bot.py
 
 ---
 
-## 🔑 Getting API Keys
+##  Getting API Keys
 
 - **Discord Token** → https://discord.com/developers/applications
 - **Gemini API Key** → https://console.google.com (free)
@@ -73,11 +73,11 @@ python3 bot.py
 
 ---
 
-## 🤖 AI Fallback System
+##  AI Fallback System
 The bot uses a smart fallback system:
-1. 🟢 Tries **Gemini** first
-2. 🟡 If Gemini fails → switches to **Groq** automatically
-3. 🔴 If both fail → sends an error message
+1. Tries **Gemini** first
+2. If Gemini fails → switches to **Groq** automatically
+3. If both fail → sends an error message
 
 This means the bot almost never goes down! 🔥
 
