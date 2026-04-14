@@ -84,4 +84,4 @@ This means the bot almost never goes down! 🔥
 ---
 
 ## 📝 License
-Made with by **kaifuddin**
+Made by **kaifuddin**
