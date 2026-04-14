@@ -25,7 +25,7 @@
 | `!trivia` | Start a trivia question |
 | `!roast [@user]` | Roast someone |
 
-###  AI Chat (Powered by Gemini + Groq)
+###  AI Chat
 | Command | Description |
 |--------|-------------|
 | `!chat <message>` | Chat with the savage AI |
