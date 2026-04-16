@@ -277,6 +277,7 @@ async def roast(ctx, member: discord.Member = None):
         f"**{target.display_name}** Tumhari advice utni hi useful hai jitni exam ke baad padhai.",
         f"**{target.display_name}** tum wohi hona jo group me 'lol' likhta hai. Every single time.",
         f"**{target.display_name}** kya roast kam kr apna",
+        f"**{target.display_name}** mai tuhare baap ka naukar nhi hoon",
     ]
     await ctx.send(random.choice(roasts) + " 💀 (relax, it's a joke 🤝)")
 
