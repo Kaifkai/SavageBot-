@@ -9,7 +9,7 @@
 ###  Moderation
 | Command | Description |
 |--------|-------------|
-| `!kick @user [reason]` | Kick a member |
+| `!kick @user [reason]` | Kick a members |
 | `!ban @user [reason]` | Ban a member |
 | `!unban Username` | Unban a member |
 | `!mute @user [reason]` | Mute a member |
